@@ -5,11 +5,11 @@ Home: https://pypi.org/project/feedparser/
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/feedparser-feedstock/blob/master/LICENSE.txt)
 
 Summary: Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
 
-
+Documentation: https://pythonhosted.org/feedparser/
 
 Current build status
 ====================
