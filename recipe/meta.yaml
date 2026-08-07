@@ -22,7 +22,7 @@ requirements:
     - python {{ python_min }}
   run:
     - python >={{ python_min }}
-    - feedparser-sgmllib >=1.0.0,<2.0.0
+    - feedparser-sgmllib >=1.0.0,<3.0.0
 
 test:
   imports:
